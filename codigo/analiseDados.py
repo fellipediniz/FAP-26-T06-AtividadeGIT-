@@ -7,3 +7,5 @@ elif nota1 >= 7 or nota2 >= 7:
     print(f"{nome} está em recuperação com as notas {nota1} e {nota2}.")
 else:
     print(f"{nome} foi reprovado com as notas {nota1} e {nota2}.")
+
+    "fim"
